@@ -1,0 +1,6 @@
+{
+    "status": "active",
+    "start_date": "2023-01-01",
+    "countries": ["US", "CN", "JP"],
+    "limit_num": 10
+}
